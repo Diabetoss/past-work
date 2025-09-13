@@ -2,37 +2,47 @@
 
 ## Featured Projects
 
-### Trolling Panel V1: [Project Name]
-![Project Screenshot](https://cdn.discordapp.com/attachments/809643842369486858/1340819344883449856/image.png?ex=689d1853&is=689bc6d3&hm=d06c0f20f6682559625d415f928b18edce419e9578cdfb3c848b32dbe8342071&)
+### Trolling Panel V1
+![Project Screenshot](https://cdn.discordapp.com/attachments/1415467813228773396/1416537961322774578/TrollingPanel.png?ex=68c73547&is=68c5e3c7&hm=64f4459d83f6280ad56d567a21db914c366982fd9db45b67ec29cc1e30d230ae&)
 - **Description**: A simple and modern trolling panel with easy to use, modular commands. Quick to set up and clean in design. Sold for 12,000 Robux.
 
-
+---
 
 ## UI/UX Design Samples
 
 ### Car Insertion Panel
-![UI Design](https://cdn.discordapp.com/attachments/809643842369486858/1350312323750821920/image.png?ex=689cb199&is=689b6019&hm=8465b156ba05e005f7033ab70f0831634046496ae66c047d669ea364872b213a&)
+![UI Design](https://cdn.discordapp.com/attachments/1415467813228773396/1416537961771696128/VehicleInsertionPanel.png?ex=68c73548&is=68c5e3c8&hm=c7b4351c3ee183ab86d9eb5dad0326946979ed0ceff765c97efcb3bdc41662a8&)
 - **Description**: Built with an external API to fetch subscription data, validate whitelists, and track owned vehicles. Sold for 35,000 Robux.
 
 ### Organization Panel
-![UX Mockup](https://cdn.discordapp.com/attachments/809643842369486858/1350469827667427380/image.png?ex=689d4449&is=689bf2c9&hm=08c4755d3d753bfdc64db63fe4f86bbb568c9beb7b032413076eaca44d678983&)
+![UX Mockup](https://cdn.discordapp.com/attachments/1415467813228773396/1416537962241589339/OrganizationsSystem.png?ex=68c73548&is=68c5e3c8&hm=01360c864e41756e974141b93f966f91a040c1cd68baeb498489b585a8f09cfc&)
 - **Description**: Sleek, modern Apple-inspired design—colorful and powerful. Currently frontend-only, created specifically for my own game.
+
+---
 
 ## Development Projects
 
 ### Car Swipe Popup
-![App Screenshot](https://cdn.discordapp.com/attachments/809643842369486858/1350844647420723220/image.png?ex=689ca71d&is=689b559d&hm=88842a3def5a17888b87ae5d43b370b01b1c9b4d913ab5b22c9d46ad821b900f&)
+![App Screenshot](https://cdn.discordapp.com/attachments/1415467813228773396/1416537962618818682/UIComponent.png?ex=68c73548&is=68c5e3c8&hm=5904ce816bfdb8c1744774c36abb12ff87a549340d294cc4f6596fc4a5133676&)
 - **Description**: A simple yet beautiful system featuring a matte black, minimalistic design inspired by FiveM.
 
 ### D2R RAPI Bot
-![Mobile App](https://cdn.discordapp.com/attachments/809643842369486858/1358912478464966837/image.png?ex=689cffde&is=689bae5e&hm=886637fdbd456c68fcf9461ab74574e07b75515894d1aff1bcc1e71b5484eb5d&)
+![Mobile App](https://cdn.discordapp.com/attachments/1415467813228773396/1416537963139043328/Discord2RobloxMsgBot.png?ex=68c73548&is=68c5e3c8&hm=adc08f7a12d25f94f83f97ebbae50ef0d6fe4b65fcf4cb7dc3707fd754293e8e&)
 - **Description**: A basic bot to get started with the Roblox API, capable of sending messages for further integrations.
+
+### Basic Roblox to Backend API
+![SERVER](https://cdn.discordapp.com/attachments/1415467813228773396/1416537964124831775/BasicAPI.png?ex=68c73548&is=68c5e3c8&hm=144c9a8daea197e77fc2414920b698fbe5daa76350afe9f30aa31acbd388e94b&)
+- **Description**: Well, I do not know why, but this was going to be a modular framework. Discontinued.
+
+---
 
 ## Graphics & Visual Design
 
 ### Radio Design
-![Artwork](https://cdn.discordapp.com/attachments/809643842369486858/1371162627589279886/image.png?ex=689cbdb5&is=689b6c35&hm=ee90c3fd20fd34747fd1701143983c4360a167945299652d97085308262e82b3&)
+![Artwork](https://cdn.discordapp.com/attachments/1415467813228773396/1416537963730571456/FrontendRadioSystem.png?ex=68c73548&is=68c5e3c8&hm=369941ba58f8451b4507bb24c5df2bc4a2ccc65f0410fb3e88b0a915430d903c&)
 - **Description**:  Frontend only, featuring an Android-inspired design. 🫡
+
+
 
 ---
 
